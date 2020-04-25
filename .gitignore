@@ -35,6 +35,8 @@
 /debian/vyatta-biosdevname
 /debian/*.log
 /debian/*.substvars
+/debian/.debhelper/
+/debian/changelog.*
 
 /src/biosdevname
 /src/biosdevnameS
